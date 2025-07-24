@@ -42,15 +42,15 @@ This analysis uses HR data of Palmrex Group, and the findings will be presented 
    Example DAX formula used:
    ```DAX
   Salary Band = SWITCH(TRUE(),
-    'Palmarex Group emp-data (1)'[Salary] <= 20000, "$10,000 - $20,000", 
-    'Palmarex Group emp-data (1)'[Salary] <= 30000, "$20,000 - $30,000", 
-    'Palmarex Group emp-data (1)'[Salary] <= 40000, "$30,000 - $40,000", 
-    'Palmarex Group emp-data (1)'[Salary] <= 50000, "$40,000 - $50,000",
-    'Palmarex Group emp-data (1)'[Salary] <= 60000, "$50,000 - $60,000", 
-    'Palmarex Group emp-data (1)'[Salary] <= 70000, "$60,000 - $70,000", 
-    'Palmarex Group emp-data (1)'[Salary] <= 80000, "$70,000 - $80,000", 
-    'Palmarex Group emp-data (1)'[Salary] <= 90000, "$80,000 - $90,000", 
-    "$90,000 and above"
+     'Palmoria Group emp-data (1)'[Salary] <= 20000, "10k - 20k", 
+    'Palmoria Group emp-data (1)'[Salary] <= 30000, "20k - 30k", 
+    'Palmoria Group emp-data (1)'[Salary] <= 40000, "30k - 40k", 
+    'Palmoria Group emp-data (1)'[Salary] <= 50000, "40k - 50k",
+    'Palmoria Group emp-data (1)'[Salary] <= 60000, "50k - 60k", 
+    'Palmoria Group emp-data (1)'[Salary] <= 70000, "60k - 70k", 
+    'Palmoria Group emp-data (1)'[Salary] <= 80000, "70k - 80k", 
+    'Palmoria Group emp-data (1)'[Salary] <= 90000, "80k - 90k", 
+    "90k and above"
 )
 
 ### Data Visualization:
@@ -92,11 +92,11 @@ Average: 212 males and 190 females rated as Average.
 Insight: There is a disparity in performance ratings: a higher number of males are rated as "Poor" compared to females, suggesting that males may be underperforming in some areas. Also, more females are rated as "Very Good" which may indicate issues with evaluation processes in the form of potential gender bias or more Females are Perfprming better.
 
 #### 6. Salary Distribution by Gender
-$90,000+ Salary Band: 152 males and 126 females are in this band, showing a clear gender disparity at the higher salary levels.
-$70,000-$80,000 Salary Band: There are 54 males and 56 females, showing more balanced distribution.
-$30,000-$40,000 Salary Band: This band shows a more females in this salary band, with 41 males and 58 females.
-$20,000-$30,000 Salary Band: This band is also more balanced with 15 males and 13 females.
-Insight: A  slight gender pay gap is evident at the higher salary levels, majorly in the $90,000+ salary band, where a larger proportion of male employees occupy higher-paying positions. This suggests that management should consider conducting a salary audit and review promotion practices to ensure gender equality in salary distribution.
+90k+ Salary Band: 152 males and 126 females are in this band, showing a clear gender disparity at the higher salary levels.
+70k-80k Salary Band: There are 54 males and 56 females, showing more balanced distribution.
+30k-40k Salary Band: This band shows a more females in this salary band, with 41 males and 58 females.
+20k-30k Salary Band: This band is also more balanced with 15 males and 13 females.
+Insight: A  slight gender pay gap is evident at the higher salary levels, majorly in the 90k+ salary band, where a larger proportion of male employees occupy higher-paying positions. This suggests that management should consider conducting a salary audit and review promotion practices to ensure gender equality in salary distribution.
 
 #### Recommendations for Management:
 * Address Gender Pay Gap:
@@ -109,9 +109,3 @@ Insight: A  slight gender pay gap is evident at the higher salary levels, majorl
  
 
 Below is the Dashboard
-<img width="706" height="380" alt="Screenshot 2025-07-24 190117" src="https://github.com/user-attachments/assets/48cf297a-b3fe-47c8-ac44-695f22643e2f" />
-
-
-
-
-   
