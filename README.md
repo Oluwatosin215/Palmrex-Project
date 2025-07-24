@@ -98,25 +98,14 @@ Insight: A  slight gender pay gap is evident at the higher salary levels, majorl
 
 #### Recommendations for Management:
 * Address Gender Pay Gap:
-    Review salary distributions, particularly at higher levels, and take corrective actions to ensure equitable pay for both male and female employees.
-    Focus on ensuring equal pay for employees in the same roles across all gender groups.
+    1. Review salary distributions, particularly at higher levels, and take corrective actions to ensure equitable pay for both male and female employees.
+    2. Focus on ensuring equal pay for employees in the same roles across all gender groups.
 
 * Gender Diversity in Departments:
-    Encourage gender diversity in male-dominated departments or female-dominated departments implementing targeted recruitment initiatives and offering mentorship opportunities
-    Review hiring practices to ensure that diversity is encouraged in traditionally male-dominated departments.
+    1. Encourage gender diversity in male-dominated departments or female-dominated departments implementing targeted recruitment initiatives and offering mentorship opportunities
+    2. Review hiring practices to ensure that diversity is encouraged in traditionally male-dominated departments.
 
-* Performance Evaluation Bias:
-    Ensure that performance evaluations are based on objective criteria and that both genders have equal opportunities for professional development and recognition.
-
-* Focus on Training and Development:
-    Offer training programs for underrepresented genders in male-dominated departments (e.g., Production).
-    Mentorship programs could be developed to help female employees progress in their careers, especially in higher-paying roles.
-    Increase Female Representation in Higher Salary Bands:
-    Review promotion practices and career progression opportunities to ensure that women are equally represented in higher-paying positions.
-
-
-
-
+Below is the Dashboard
 
 
 
