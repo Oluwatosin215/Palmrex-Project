@@ -2,13 +2,13 @@
 
 <img width="338" height="222" alt="Screenshot 2025-07-24 191449" src="https://github.com/user-attachments/assets/d4f3d0cd-54aa-47d4-986c-a09c411927e2" />
 
-# Palmoria Group HR Analysis
-This project analyzes gender inequality  within Palmrex Group, a manufacturing company based in Nigeria.
+# Palmrex Group HR Analysis
+This project analyzes gender inequality  within Palmrex Group, a manufacturing company based in UK.
 The focus is to identify key issues related to gender disparity in salary, performance ratings, and departmental distribution,in order to provide insights and recommendations to management.
 
 ## Project Overview
 
-The goal of this analysis is to help Palmoria Group:
+The goal of this analysis is to help Palmrex Group:
 - Identify gender distribution across regions and departments.
 - Investigate performance ratings by gender.
 - Examine the gender pay gap within the company.
@@ -41,16 +41,15 @@ This analysis uses HR data of Palmrex Group, and the findings will be presented 
    
    Example DAX formula used:
    ```DAX
-  Salary Band = 
-SWITCH(TRUE(),
-    'Palmoria Group emp-data (1)'[Salary] <= 20000, "$10,000 - $20,000", 
-    'Palmoria Group emp-data (1)'[Salary] <= 30000, "$20,000 - $30,000", 
-    'Palmoria Group emp-data (1)'[Salary] <= 40000, "$30,000 - $40,000", 
-    'Palmoria Group emp-data (1)'[Salary] <= 50000, "$40,000 - $50,000",
-    'Palmoria Group emp-data (1)'[Salary] <= 60000, "$50,000 - $60,000", 
-    'Palmoria Group emp-data (1)'[Salary] <= 70000, "$60,000 - $70,000", 
-    'Palmoria Group emp-data (1)'[Salary] <= 80000, "$70,000 - $80,000", 
-    'Palmoria Group emp-data (1)'[Salary] <= 90000, "$80,000 - $90,000", 
+  Salary Band = SWITCH(TRUE(),
+    'Palmarex Group emp-data (1)'[Salary] <= 20000, "$10,000 - $20,000", 
+    'Palmarex Group emp-data (1)'[Salary] <= 30000, "$20,000 - $30,000", 
+    'Palmarex Group emp-data (1)'[Salary] <= 40000, "$30,000 - $40,000", 
+    'Palmarex Group emp-data (1)'[Salary] <= 50000, "$40,000 - $50,000",
+    'Palmarex Group emp-data (1)'[Salary] <= 60000, "$50,000 - $60,000", 
+    'Palmarex Group emp-data (1)'[Salary] <= 70000, "$60,000 - $70,000", 
+    'Palmarex Group emp-data (1)'[Salary] <= 80000, "$70,000 - $80,000", 
+    'Palmarex Group emp-data (1)'[Salary] <= 90000, "$80,000 - $90,000", 
     "$90,000 and above"
 )
 
