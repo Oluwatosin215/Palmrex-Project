@@ -109,3 +109,8 @@ Insight: A  slight gender pay gap is evident at the higher salary levels, majorl
  
 
 Below is the Dashboard
+
+
+<img width="658" height="348" alt="Screenshot 2025-07-24 200315" src="https://github.com/user-attachments/assets/3c5cb1c9-df40-484f-a2f8-55b40ca84967" />
+
+
