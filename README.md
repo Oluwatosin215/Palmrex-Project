@@ -1,5 +1,6 @@
 
 
+<img width="338" height="222" alt="Screenshot 2025-07-24 191449" src="https://github.com/user-attachments/assets/d4f3d0cd-54aa-47d4-986c-a09c411927e2" />
 
 # Palmoria Group HR Analysis
 This project analyzes gender inequality  within Palmrex Group, a manufacturing company based in Nigeria.
