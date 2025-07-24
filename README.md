@@ -59,25 +59,62 @@ SWITCH(TRUE(),
 
 
 ### Key Insights
-1. Total Employees
+#### 1. Total Employees
 Total Number of Employees: 874 employees in total.
-2. Gender Distribution
+
+#### 2. Gender Distribution
 Male Employees: 465 
 Female Employees: 441
 Unknown Gender: 40 employees
 Insight: There is a slightly higher proportion of male employees in the company compared to female employees,
  but there is a notable portion of employees whose gender is not disclosed (Unknown).
-3. Gender Distribution by Department
+ 
+#### 3. Gender Distribution by Department
 Some departments has unequal gender distribution amongst them , they have either more Males like the legal department with 49 males and 34 Females
 or more females like the services department with 42 females and 37 males. Most departments tho have a balanced gender distribution.
 Insight: Some departments show a male-dominated or a female-dominated workforce , while others like Human Resources are more gender-balanced.
  Diversity initiatives might be needed in any gender-dominated departments, particularly in technical and operational roles.
-4. Gender Distribution by Location
+ 
+#### 4. Gender Distribution by Location
 Kaduna: 165 female employees and 182 male employees, totaling 361 employees.
 Abuja: 158 female employees and 159 male employees, totaling 335 employees.
 Lagos: 118 female employees and 124 male employees, totaling 250 employees.
 Insight: The gender distribution across locations is relatively balanced, though the Kaduna region has a slightly higher proportion of males.
 The gender distribution by region appears equitable, with no significant discrepancies between locations.
+
+#### 5. Performance Ratings by Gender
+Very Good: A higher number of females 49 are rated Very Good, compared to 36 males.
+Good: 82 males and 89 females rated Good.
+Poor: 70 males are rated Poor, whereas 58 females are rated Poor.
+Average: 212 males and 190 females rated as Average.
+Insight: There is a disparity in performance ratings: a higher number of males are rated as "Poor" compared to females, suggesting that males may be underperforming in some areas. Also, more females are rated as "Very Good" which may indicate issues with evaluation processes in the form of potential gender bias or more Females are Perfprming better.
+
+#### 6. Salary Distribution by Gender
+$90,000+ Salary Band: 152 males and 126 females are in this band, showing a clear gender disparity at the higher salary levels.
+$70,000-$80,000 Salary Band: There are 54 males and 56 females, showing more balanced distribution.
+$30,000-$40,000 Salary Band: This band shows a more females in this salary band, with 41 males and 58 females.
+$20,000-$30,000 Salary Band: This band is also more balanced with 15 males and 13 females.
+Insight: A  slight gender pay gap is evident at the higher salary levels, majorly in the $90,000+ salary band, where a larger proportion of male employees occupy higher-paying positions. This suggests that management should consider conducting a salary audit and review promotion practices to ensure gender equality in salary distribution.
+
+#### Recommendations for Management:
+* Address Gender Pay Gap:
+    Review salary distributions, particularly at higher levels, and take corrective actions to ensure equitable pay for both male and female employees.
+    Focus on ensuring equal pay for employees in the same roles across all gender groups.
+
+* Gender Diversity in Departments:
+    Encourage gender diversity in male-dominated departments or female-dominated departments implementing targeted recruitment initiatives and offering mentorship opportunities
+    Review hiring practices to ensure that diversity is encouraged in traditionally male-dominated departments.
+
+* Performance Evaluation Bias:
+    Ensure that performance evaluations are based on objective criteria and that both genders have equal opportunities for professional development and recognition.
+
+* Focus on Training and Development:
+    Offer training programs for underrepresented genders in male-dominated departments (e.g., Production).
+    Mentorship programs could be developed to help female employees progress in their careers, especially in higher-paying roles.
+    Increase Female Representation in Higher Salary Bands:
+    Review promotion practices and career progression opportunities to ensure that women are equally represented in higher-paying positions.
+
+
 
 
 
