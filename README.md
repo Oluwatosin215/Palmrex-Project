@@ -1,5 +1,7 @@
-# Palmoria Group HR Analysis
 
+
+
+# Palmoria Group HR Analysis
 This project analyzes gender inequality  within Palmrex Group, a manufacturing company based in Nigeria.
 The focus is to identify key issues related to gender disparity in salary, performance ratings, and departmental distribution,in order to provide insights and recommendations to management.
 
@@ -102,12 +104,12 @@ Insight: A  slight gender pay gap is evident at the higher salary levels, majorl
     2. Focus on ensuring equal pay for employees in the same roles across all gender groups.
 
 * Gender Diversity in Departments:
-    1. Encourage gender diversity in male-dominated departments or female-dominated departments implementing targeted recruitment initiatives and offering mentorship opportunities
+    1. Encourage gender diversity in male-dominated departments or female-dominated departments by implementing targeted recruitment initiatives and offering mentorship opportunities
     2. Review hiring practices to ensure that diversity is encouraged in traditionally male-dominated departments.
+ 
 
 Below is the Dashboard
-
-
+<img width="706" height="380" alt="Screenshot 2025-07-24 190117" src="https://github.com/user-attachments/assets/48cf297a-b3fe-47c8-ac44-695f22643e2f" />
 
 
 
